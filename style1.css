@@ -1,0 +1,127 @@
+body {
+    font-family: sans-serif;
+    background-color: #B3B8C9;
+}
+
+img {
+top: 0px;
+left: 0px;
+}
+
+.home {
+    top: 20px;
+    left: 870px;
+    font-size: 25px;
+}
+
+.about {
+    top: 20px;
+    left: 970px;
+    font-size: 25px;
+}
+
+.Activities {
+    top: 20px;
+    left: 1070px;
+    font-size: 25px;
+}
+
+.contacts {
+    top: 20px;
+    left: 1200px;
+    font-size: 25px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    
+}
+h1 {
+    color: white;
+    position: absolute;
+    font-size: 90px;
+    top: 0px;
+    left: 400px;
+}
+h2 {
+    color: white;
+    position: absolute;
+    font-size: 30px;
+    top: 130px;
+    left: 320px;
+}
+.logo {
+    position: absolute;
+    top: -30px;
+    left: 5px;
+}
+.qblock{
+background-color: white;
+padding: 60px;
+margin: 10px;
+width: 1180px;
+border-radius: 20px;
+}
+.kartinka1{
+    position: absolute;
+    left: 690px;
+    top: 260px;
+
+}
+.aboutext{
+    color: black;
+    position: absolute;
+    top: 250px;
+    left: 510px;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+.kartinka2{
+    position: absolute;
+    left: 730px;
+    top: 790px;
+
+}
+.aboutextt{
+    color: black;
+    position: absolute;
+    top: 700px;
+    left: 510px;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+.wblock{
+background-color: white;
+padding: 60px;
+margin: 10px;
+width: 1180px;
+border-radius: 20px;
+} 
+
+.contact-box {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1270px;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+}
+
+.contact-table {
+    width: 100%;
+}
+
+.contact-table td {
+    padding: 10px;
+    font-size: 23px;
+    vertical-align: top;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
